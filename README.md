@@ -1,6 +1,5 @@
 - 👋 Olá, sou @MkDev21IA
-- 👀 Tenho interesse em Python nas áreas de Dados e Machine Learning e em C++ aplicado à robótica
-- 💞️ Busco colaborar na área da Educação, democratizando o acesso á Inteligência Artificial
+- 👀 Tenho interesse em Python nas áreas de Dados e Machine Learning e SQL
 - 📫 Você pode me encontrar no https://www.linkedin.com/in/mikhaelsilveira/
 
 <!---
