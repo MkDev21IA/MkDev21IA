@@ -30,6 +30,7 @@
 ## Redes Sociais 😎
 - Linkedin: https://www.linkedin.com/in/mikhaelsilveira/
 - Kaggle: https://www.kaggle.com/mkdev21ia
+- Beecrowd: https://judge.beecrowd.com/pt/profile/1073803
 
 ## Tecnologias 🖥️
 <img  width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png"> <img  width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/2048px-Arduino_IDE_logo.svg.png"> <img  width="80" height="100" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png">
