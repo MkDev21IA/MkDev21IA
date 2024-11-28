@@ -11,7 +11,7 @@
 - **Simulador de tiro Simulaser**: [Post no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7263296646157910018/?originalSubdomain=pt) \
    Software de simulador de tiro barato para a substituição da Instrução Preparatória de Tiro(IPT) do Exército Brasileiro e de outras forças armadas. Utilizamos Python e principalmente a biblioteca OpenCV para reconhecer os tiros feitos por um ponteiro laser, anotando os acertos em uma pasta do Google Drive, o projeto também conta de uma interface gráfica fácil de ser utilizada e também um manual de uso.
 
-## Certificações 🖱️
+## Certificados/Licenças 🖱️
 - **Kaggle's Intro to Programming Course** - KAGGLE, 2024 - [Certificado](https://www.kaggle.com/learn/certification/mkdev21ia/intro-to-programming)
 - **Engenharia Eletrônica** - IME, 2027;
 
