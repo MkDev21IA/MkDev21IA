@@ -13,6 +13,7 @@
 
 ## Certificados/Licenças 🖱️
 - **Kaggle's Intro to Programming Course** - KAGGLE, 2024 - [Certificado](https://www.kaggle.com/learn/certification/mkdev21ia/intro-to-programming)
+- **Kaggle's Python Course** - KAGGLE, 2024 - [Certificado](https://www.kaggle.com/learn/certification/mkdev21ia/python)
 - **Engenharia Eletrônica** - IME, 2027;
 
 ## Conquistas 🏅
