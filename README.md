@@ -1,6 +1,6 @@
 # Olá, eu sou Mikhael Silveira, MkDev21IA 🤖
 - Atualmente curso **Engenharia Eletrônica** no IME, me considero iniciante em **Python** e também com a linguagem **SQL** para análise e manipulação de banco de dados.
-- Tenho interesse em ***Ciência de Dados***, ***Machine Learning*** e ***Inteligência Artifical*** no geral.
+- Tenho interesse em ***Ciência de Dados***, ***Machine Learning*** e ***Inteligência Artificial*** no geral.
 
 ## Experiência 📈
 - Na iniciativa de Robôtica ***ROBOIME*** sou da equipe de Drones e atuo como _Técnico de Hardware_ sendo responsável pela sua montagem e desmontagem além da configuração baixo nível dos mesmos.
