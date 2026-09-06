@@ -6,6 +6,7 @@ Currently:
 
 * Building LLM applications and AI systems with Python, RAG and AWS Bedrock
 * Developing data pipelines and cloud workflows with AWS
+* Using AI coding agents such as Claude Code in my software development workflow
 * Building and exploring agentic AI systems and intelligent agents
 
 ---
