@@ -1,12 +1,12 @@
 # Hi, I'm Mikhael Silveira 👋
 
-Electronic Engineering student at IME with experience in Data Engineering, AI systems and Robotics.
+Electronic Engineering student at IME focused on AI Engineering, with experience building LLM applications, RAG systems, data pipelines, computer vision systems and autonomous robotics.
 
 Currently:
 
-* Building ELT pipelines and cloud workflows with AWS
-* Leading autonomous drone development at RoboIME
-* Exploring AI applications with LLMs and intelligent agents
+* Building LLM applications and AI systems with Python, RAG and AWS Bedrock
+* Developing data pipelines and cloud workflows with AWS
+* Building and exploring agentic AI systems and intelligent agents
 
 ---
 
@@ -14,14 +14,22 @@ Currently:
 
 * AI Engineering
 * LLM Applications
+* RAG & Information Retrieval
 * Intelligent Agents
 * Computer Vision
-* Robotics
 * Autonomous Systems
 
 ---
 
 ## Featured Projects 📖
+
+### 🔎 LLM Search with Source Attribution
+
+LLM-powered research chatbot designed to ground factual claims in verifiable sources.
+
+**Technologies:** Python • LLMs • RAG • Information Retrieval
+
+---
 
 ### 🚁 Drone Autonomous System
 
@@ -53,7 +61,7 @@ Components:
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge">
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge">
 </p>
 
 ### Cloud & Data
@@ -61,17 +69,19 @@ Components:
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/Athena-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white">
 </p>
 
-### AI & Computer Vision
+### AI & Machine Learning
 
 <p>
+<img src="https://img.shields.io/badge/LLMs-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/RAG-5C3EE8?style=for-the-badge">
+<img src="https://img.shields.io/badge/AWS%20Bedrock-orange?style=for-the-badge">
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
 <img src="https://img.shields.io/badge/Computer%20Vision-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/LLMs-black?style=for-the-badge">
-<img src="https://img.shields.io/badge/AWS%20Bedrock-orange?style=for-the-badge">
 </p>
 
 ### Tools
