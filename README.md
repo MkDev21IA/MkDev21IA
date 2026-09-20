@@ -32,7 +32,7 @@ Open-source search and factual synthesis engine (LLM) focused on rigorously grou
 An AI-powered executive career matching and competency gap remediation platform designed for ctaio.dev — the premier intelligence publication for CTO, CIO, CAIO, and CDAO convergence.
 **Technologies:** Python • LLMs • Web Framework
 
-### 📊 [Financial Data ETL Pipeline](https://github.com/MkDev21IA/extrator-financas-inter)
+### 📊 [Personal Finance Data Pipeline](https://github.com/MkDev21IA/personal-finance-data-pipeline)
 An end-to-end automated ETL solution to extract and process financial data. The application is containerized to ensure consistent deployment and isolated execution.
 **Technologies:** Python • Docker • Data Engineering
 
